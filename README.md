@@ -1,4 +1,3 @@
-=====================
 yii2 extension - blockcity api client
 
 deponds on linslin\yii2\curl 
