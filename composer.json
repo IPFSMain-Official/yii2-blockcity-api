@@ -1,0 +1,23 @@
+{
+    "name": "ipfsmainofficial/yii2-blockcity-api",
+    "minimum-stability": "dev",
+    "description": "yii2 extension - blockcity api client",
+    "type": "library",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "ipfsmainofficial",
+            "email": "363686276@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+        "linslin/Yii2-Curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ipfsmainofficial\\blockcity\\": "src"
+        }
+    }
+}
